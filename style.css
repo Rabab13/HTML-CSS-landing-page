@@ -1,0 +1,185 @@
+/*nav
+==========================================*/
+
+nav {
+	position:fixed;
+	 width:100%;
+	 top:0;
+	 background-color: 
+}
+
+
+/*nav ul {
+  position: relative;
+  margin: 0;
+  z-index: 4;
+  text-transform: uppercase;
+  text-align: center;
+
+}*/
+nav ul li {
+  display: inline-block;
+  padding: 1em 0;
+  margin-right: 5em;
+  font-size: 20px;
+  text-align: center;
+	border-left: 5px solid transparent;
+
+
+
+}
+nav ul li a {
+  text-decoration: none;
+  display:inline;
+  padding:
+  margin:0;
+  color: #111;
+  font-size: 0.9em;
+}
+nav ul li :hover{ 
+}
+.active {
+	background: 
+}
+h1 {
+ text-shadow: 2px 2px #ff0000;
+}
+#section1 {background-color:#660708;
+		 padding-bottom: 100px;
+		 background-image: url(image/Everest.jpg);
+		 background-size: cover;
+     background-position: top right;
+		 background-position-x: right;
+		 background-position-y: top;
+
+}
+#section2 {background-color:#6930c3;
+		 padding-bottom: 100px;
+		 background-image: url(image/K2.jpg);
+		 background-size: cover;
+         background-position: top right;
+				 background-position-x: right;
+				 background-position-y: top;
+
+}
+#section3 {background-color:#f08a5d
+         padding-bottom: 100px;
+		 background-image: url(image/Kangchenjunga.jpg);
+		 background-size: cover;
+         background-position: top right;
+				 background-position-x: right;
+				background-position-y: top;
+		 }
+#section4 {background-color:#28df97
+         padding-bottom: 100px;
+		 background-image: url(image/Lhotse.jpg);
+		 background-size: cover;
+         background-position: top right;
+				 background-position-x: right;
+				background-position-y: top;
+		 }
+#section5 {background-color:#A0C4FF
+         padding-bottom: 100px;
+		 background-image: url(image/Makalu2.jpg);
+		 background-size: cover;
+         background-position: top right;
+				 background-position-x: right;
+				background-position-y: top;
+		 }
+#section6 {background-color:#726a95
+         padding-bottom: 100px;
+		 background-image: url(image/ChoOyu.jpg);
+		 background-size: cover;
+         background-position: top right;
+				 background-position-x: right;
+				background-position-y: top;
+		 }
+
+section {
+     height: 100vh;
+}
+section {
+     font-size:35px;
+	 padding:0;
+     margin: 0;
+	 color:#48bfe3;
+	 text-transform: ;
+	 text-align: center;
+	 padding-top:1em;
+     position: static;
+	 top: 0;
+     left: 0;
+     z-index: 7;
+}
+h1 {
+	color: #6f1d1b;
+     text-align: center;
+	 padding-top:1em;
+	 margin: 1;
+	 text-shadow: 2px 2px 5px gray;
+	  text-shadow: 2px 2px #370617;
+
+}
+ul {
+  margin:0;
+  padding:2;
+  overflow: hidden;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 4;
+	overflow: hidden;
+  background-color: ;
+  width:100%;
+	background-color: ;
+	border: ;
+	background-color: ;
+	background-image: url(image/K2.jpg);
+	background-size: cover;
+			background-position: top right;
+			background-position-x: right;
+		 background-position-y: top;
+	/*text-shadow:  2px 2px #b7b7a4;*/
+}
+
+p {
+     margin: 0;
+	 font-size:30px;
+	 font-weight: bold;
+	 color: #6a040f;
+	 text-transform: ;
+	 text-align: center;
+	 padding-top:1em;
+	 text-shadow: 2px 2px 5px gray;
+}
+li {
+	float: left;
+}
+li a{
+     display:block;
+	 color: ;
+	 text-align: center;
+	 padding: 14px 16px;
+	 text-decoration: none;
+}
+li: last-child {
+	border-right: none;
+}
+/* All functions related to the hover on the nav section*/
+
+li a:hover {
+	color:#8ecae6;
+	transform: scale(1.5);
+}
+
+a:active {color:;
+
+}
+a   {
+   color: white;
+   display:block;
+   padding: 8px;
+   background-color:
+
+}
+body {margin:0;}
+
